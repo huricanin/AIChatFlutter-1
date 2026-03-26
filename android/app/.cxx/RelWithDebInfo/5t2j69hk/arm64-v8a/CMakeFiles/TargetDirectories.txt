@@ -1,0 +1,2 @@
+D:/Project/AIChatFlutter/android/app/.cxx/RelWithDebInfo/5t2j69hk/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Project/AIChatFlutter/android/app/.cxx/RelWithDebInfo/5t2j69hk/arm64-v8a/CMakeFiles/rebuild_cache.dir
